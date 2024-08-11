@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "javascript",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "css3",
-        "logo": "imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "html5",
-        "logo": "imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "git",
-        "logo": "imgs/react.png"
+        "name": "vscode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       },
       {
-        "name": "c++",
-        "logo": "imgs/mongodb.png"
+        "name": "github",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       },
       {
         "name": "docker",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/docker.png"
       }
     ],
     "softSkills": [
